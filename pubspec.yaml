@@ -12,7 +12,7 @@ dependencies:
     sdk: flutter
   flutter_spinkit: ^5.2.1
   http: ^1.2.1
-  webview_flutter: ^4.0.0 #downgraded the webview package version
+  webview_flutter: ^3.0.3 #downgraded the webview package version
 
 
 dev_dependencies:
